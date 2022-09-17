@@ -1,6 +1,21 @@
 {
+  "workspace": {
+    "none": [
+      "Project none",
+      "1663421168487"
+    ]
+  },
   "studio-open-web": {},
+  "studio-open-git": {
+    "none:C:\\Users\\becke\\Downloads\\4878717_Customizable_Alphabet_Train\\files\\Train_Maker_Version_2.scad": [
+      "none",
+      "C:\\Users\\becke\\Downloads\\4878717_Customizable_Alphabet_Train\\files\\Train_Maker_Version_2.scad"
+    ]
+  },
   "BowlerStudioConfigs": {
+    "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
+    "tutorialBranch": "deploy",
+    "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
     "fontsize": 12.0,
     "skinBranch": "0.25.2",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
