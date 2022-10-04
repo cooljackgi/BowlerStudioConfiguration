@@ -6,12 +6,7 @@
     ]
   },
   "studio-open-web": {},
-  "studio-open-git": {
-    "none:C:\\Users\\becke\\Downloads\\4878717_Customizable_Alphabet_Train\\files\\Train_Maker_Version_2.scad": [
-      "none",
-      "C:\\Users\\becke\\Downloads\\4878717_Customizable_Alphabet_Train\\files\\Train_Maker_Version_2.scad"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "tutorialBranch": "deploy",
